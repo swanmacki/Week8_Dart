@@ -1,0 +1,13 @@
+Student: Leeroy Soriano
+Attendance: 95%
+
+Grades Breakdown:
+ - Prelim: 95.99
+ - Midterm: 96.9
+ - Final: 97.22
+
+GWA: 96.70
+Did Leeroy Soriano pass? true
+
+Academic Status:
+Status: Passed!
